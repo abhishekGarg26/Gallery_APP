@@ -3,6 +3,10 @@
 
 ## APP PREVIEW
 
+<img width="333" alt="Screenshot 2023-06-01 at 2 26 15 PM" src="https://github.com/abhishekGarg26/Gallery_APP/assets/132883235/57ac7762-dde2-4d9d-8c0e-c107eea30215">
+<img width="332" alt="Screenshot 2023-06-01 at 2 26 31 PM" src="https://github.com/abhishekGarg26/Gallery_APP/assets/132883235/afd9a314-4ae2-49c7-b997-ed11c6d1df74">
+<img width="333" alt="Screenshot 2023-06-01 at 2 26 56 PM" src="https://github.com/abhishekGarg26/Gallery_APP/assets/132883235/c3d3b778-66c5-437d-bf3e-6d2d31c1ea1f">
+
 ## FEATURES
 
 1. Real-Time Image Fetching: The app employs a REST API to fetch images in real-time from a server. This ensures that users can access the latest and updated images without the need for manual refreshing.
